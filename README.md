@@ -20,7 +20,7 @@ or
 yarn install
 yarn start
 ```
-Tested on Mac and Windows 8.
+Tested on Windows 10.
 
 ## Running the tests
 ```
