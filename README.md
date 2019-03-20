@@ -12,7 +12,7 @@ who placed a $1 stake. The betting house takes a commission out of the pool befo
 
 ## Running Locally
 ```
-git clone https://github.com/juliuscarvajal/dividendscalculator.git
+git clone https://github.com/venkatweb1234/Tote-betting-calculator.git
 cd dividendscalculator
 npm install
 npm start
