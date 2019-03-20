@@ -1,6 +1,6 @@
 Venkateswarlu Sattenapalli
 
-# Dividends Calculator (Tote Betting)
+# Tote Betting Calculator (Tote Betting)
 
 
 This is a dividends calculator for a simplified form of Tote betting.
